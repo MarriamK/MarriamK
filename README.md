@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marriam
-- 👀 I’m interested in a career in the tech industry
-- 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Computer Science, in particular, software and programming
+- 🌱 I’m currently learning Software Development at Code Institute
+- 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me ...
 
 <!---
